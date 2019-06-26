@@ -1,0 +1,14 @@
+Number	Type	Destination	price per ticket
+FD152	777	Bangkok	830
+FE163	787	New York	750
+FR121	777	Las Vegas	940
+ED184	747	London	350
+RF154	737	Berlin	380
+EL142	747	Rome	265
+TB574	787	New Delhi	765
+AN451	747	Milano	400
+RT477	757	Barcelona	320
+UN142	737	Paris	355
+YI745	747	Monaco	425
+GF635	757	Amsterdam	300
+YS444	777	Melbourne	845

@@ -1,0 +1,66 @@
+ID	Profession	Name	age	bonus rate for sale	phone
+1	Maintenance	Jessica	72	0.024921734	
+2	Maintenance	Olivia	30	0.070749046	
+3	Maintenance	Hannah	52	0.054671673	
+4	Maintenance	Emma	24	0.089749296	
+5	Flight Attendant	Sophie	27	0.148860783	
+6	Flight Attendant	Grace	54	0.140146566	
+7	Maintenance	Ella	35	0.012598999	
+8	Pilot	Emily	64	0.279093175	
+9	Maintenance	Sarah	38	0.051498143	
+10	Marketing	Georgia	19		0547220791
+11	Marketing	Charlotte	72		0512535384
+12	Marketing	Caitlin	23		0572534000
+13	Marketing	Samantha	22		0562533160
+14	Marketing	Paige	21		0542532900
+15	Marketing	Lucy	66		0522534700
+16	Marketing	Isabella	58		0582534200
+17	Marketing	Jack	46		0542532700
+18	Marketing	Samuel	56		052532500
+19	Marketing	Thomas	58		0512536400
+20	Marketing	Benjamin	30		0532533400
+21	Maintenance	James	43	0.021545845	
+22	Maintenance	Jacob	42	0.095142551	
+23	Maintenance	Liam	48	0.080541253	
+24	Marketing	Matthew	34		0562531800
+25	Marketing	Jade	27		0522533500
+26	Marketing	Kate	28		5782533700
+27	Marketing	Rebecca	36		0592536500
+28	Marketing	Zoe	33		0552531700
+29	Marketing	Jasmine	76		0502534100
+30	Marketing	Amelia	56		0502536200
+31	Marketing	Danielle	60		0542531200
+32	Marketing	Tayla	48		0532533200
+33	Marketing	Elizabeth	72		0562536000
+34	Marketing	Nikita	64		0542536900
+35	Marketing	Kayla	24		0584723939
+36	Maintenance	Sophia	74	0.135514007	
+37	Pilot	Luke	51	0.256040655	
+38	Maintenance	Logan	47	0.142635659	
+39	Pilot	Ryan	22	0.244143134	
+40	Maintenance	Michael	37	0.027521144	
+41	Flight Attendant	Jordan	80	0.194613168	
+42	Maintenance	Jayden	65	0.077745027	
+43	Flight Attendant	Joseph	53	0.127620621	
+44	Maintenance	Alexander	55	0.022375247	
+45	Pilot	Max	33	0.260607704	
+46	Maintenance	Brianna	63	0.101150961	
+47	Security	Alice	25	0.16219596	
+48	Maintenance	Gemma	27	0.142189972	
+49	Maintenance	Paris	44	0.011634076	
+50	Maintenance	Megan	64	0.132320295	
+51	Flight Attendant	Rachel	75	0.120503216	
+52	Maintenance	William	72	0.112838768	
+53	Maintenance	Caleb	63	0.02147757	
+54	Maintenance	Luke	52	0.163132646	
+55	Maintenance	Oliver	74	0.15052317	
+56	Maintenance	Ryan	30	0.046221241	
+57	Security	Jayden	21	0.159777326	
+58	Security	Cameron	78	0.198651126	
+59	Flight Attendant	Connor	67	0.102071822	
+60	Security	Logan	34	0.1835485	
+61	Security	Dylan	58	0.153639801	
+62	Flight Attendant	Max	32	0.135149852	
+63	Maintenance	Destiny	66	0.145348726	
+64	Flight Attendant	Jemma	64	0.140661023	
+65	Maintenance	Trinity	72	0.082390928	
